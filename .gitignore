@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.vscode/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Frontend
+node_modules/
+frontend/dist/
+npm-debug.log*
